@@ -1,0 +1,22 @@
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+.env
+*.py[cod]
+data/raw/
+data/linguo.sqlite3
+data/lectures.json
+data/syllabus.json
+data/exam_prep.json
+data/questions.json
+data/scrape_report.json
+data/*.sqlite3-journal
+
+# Local academic source documents and generated report assets
+Linguo_Abstract_Literature_Survey.docx
+Linguo_Project_Overview.pptx
+~$*
+report_assets/
+debug.log
+frontend/package-lock.json
